@@ -1,0 +1,72 @@
+h1{
+    font-size: 64px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: #000;
+}
+/* p{
+    font-size: 20px;
+    color: #fff;
+} */
+.head1{
+width: 100%;
+height: 100vh;
+background-image: url("Sightseeing-Diaries-Get-the-Most-Out-of-Your-Kasol-Trip.avif");
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-items: center;
+text-align: center;
+background-attachment: fixed;
+
+}
+.head2{
+width: 100%;
+height: 100vh;
+background-image:url("IMG_1651.JPG");
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-items: center;
+text-align: center;
+background-attachment: fixed;
+
+
+
+}
+.head3{
+width: 100%;
+height: 100vh;
+background-image: url("IMG_9984.JPG");
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-items: center;
+text-align: center;
+background-attachment: fixed;
+}
+
+.head4{
+    width: 100%;
+    height: 100vh;
+    background-image:url("IMG_5369.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.head5{
+    width: 100%;
+    height: 100vh;
+    background-image:url("IMG_3754.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}
